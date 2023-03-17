@@ -14,7 +14,3 @@ Flexbox
 JavaScript
 
 
-### Visual do Projeto
-
-![Coffee House](https://renatoschroepfer.com/img/work/coffee/home.png)
-
